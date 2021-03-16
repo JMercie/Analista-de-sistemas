@@ -84,9 +84,9 @@ Se pueden ver los enunciados en el siguiente archivo [Guia-Ejercicios-1](matemat
 33.  resultados:
     1.  
     2.  
-    3.  
+    3.  `(11011,0101)2 = (33,5)8 = (1B,A)16`
     4.  
-    5.  
+    5.  `(1111111,001)2 = ()8 = ()16`
     6.  
     7.  
     8.  
