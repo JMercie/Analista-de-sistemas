@@ -35,13 +35,14 @@ el y (notacion ^) -> conjuncion
 Podemos ver estas relaciones en una **tabla de verdades**.
 
 **conjuncion**
+
 |   p   |   q   | p -> q |
 | :---: | :---: | :----: |
 |   1   |   1   |   1    |
 |   1   |   0   |   0    |
 |   0   |   1   |   0    |
 
-### Diferencia Simetrica "o exclusivo" /_\
+### Diferencia Simetrica "o exclusivo" ▵
 
 Es una u otra pero nunca ambas a la vez. No exclusivo.
 
